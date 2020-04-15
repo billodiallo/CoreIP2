@@ -4,7 +4,7 @@ Github app search user
 
 ## Author:
 
-Joselyne MPAYIMANA
+Mamadou Billo Diallo
 
 ## Contact information:
 
