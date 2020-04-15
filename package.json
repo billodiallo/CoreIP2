@@ -22,6 +22,7 @@
     "@ngx-progressbar/core": "^3.0.2",
     "@ngx-progressbar/http-client": "^3.0.2",
     "bootstrap": "^4.3.1",
+    "express": "^4.17.1",
     "popper": "^1.0.1",
     "rxjs": "~6.4.0",
     "rxjs-compat": "^6.5.2",
@@ -29,14 +30,15 @@
     "zone.js": "~0.9.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.802.2",
+    "@angular-devkit/build-angular": "^0.803.24",
     "@angular/cli": "~8.2.2",
     "@angular/compiler-cli": "~8.2.0",
     "@angular/language-service": "~8.2.0",
+    "@babel/compat-data": "7.8.0",
     "@types/jasmine": "~3.3.8",
     "@types/jasminewd2": "~2.0.3",
     "@types/node": "~8.9.4",
-    "angular-cli-ghpages": "^0.6.0",
+    "angular-cli-ghpages": "^0.6.2",
     "codelyzer": "^5.0.0",
     "jasmine-core": "~3.4.0",
     "jasmine-spec-reporter": "~4.2.1",
@@ -49,5 +51,17 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "Github app search user",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/billodiallo/CoreIP2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/billodiallo/CoreIP2/issues"
+  },
+  "homepage": "https://github.com/billodiallo/CoreIP2#readme"
 }
